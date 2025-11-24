@@ -1,3 +1,1 @@
-##Karate Sharp##
-
-This repository only contains the Videogame code files
+This repository only contains the videogame code files.
